@@ -1,0 +1,49 @@
+body {
+   font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 80px;
+    font-size: 30px;
+}
+
+form {
+    width: 50%;
+    background-color: gainsboro;
+    margin: auto;
+}
+
+
+label {
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+input {
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+select {
+    width: 30%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    background: white;
+}
+
+
+#submit {
+    width: 30%;
+    background: greenyellow;
+    font-size: 20px;
+    margin: 0 0 40px 80px;
+    font-weight: bold;
+}
+

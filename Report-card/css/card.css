@@ -1,0 +1,30 @@
+
+table {
+    margin: auto;
+    width: 60%;
+    height: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px;
+}
+
+td {
+    color: blue;
+}
+
+td:hover, th:hover {
+    background: lightgrey;
+}
+
+.subject {
+    color: black;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
