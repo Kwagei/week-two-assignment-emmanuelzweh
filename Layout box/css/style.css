@@ -1,0 +1,45 @@
+
+header {
+    width: 100%;
+    height: 60px;
+    background: skyblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+#two-layout {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin: 10px 0 10px 0;
+}
+
+aside {
+    height: 290px;
+    background: green;
+    text-align: center;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+#main-content {
+    background: gold;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#extra-content {
+    background: darkgray;
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+footer {
+    width: 100%;
+    height: 60px;
+    background: goldenrod;
+    text-align: center;
+    font-size: 30px;
+}
